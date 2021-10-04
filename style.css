@@ -1,0 +1,15 @@
+/*
+CSS File
+By Ulysse Valdenaire
+04/10/2021
+*/
+
+body{
+    background: #0F2027;
+    background: -webkit-linear-gradient(to right, #2C5364, #203A43, #0F2027); 
+    background: linear-gradient(to right, #2C5364, #203A43, #0F2027); 
+}
+
+h1, h2, label, p{
+    color:white;
+}
