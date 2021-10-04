@@ -34,15 +34,13 @@ By Ulysse Valdenaire
                     <label class="floatingTextarea" for="message">Votre Message</label>
                     <button class="btn btn-dark justify-content-center" type="submit">Envoyer</button>
                 </div>
-
             </div>
         </form>
-
         <div class="row justify-content-center">
             <div class="col-12 col-lg-6">
                 <h2 class="text-center mb-3">Derniers messages</h2>
 
-        <?php
+                <?php
             //dispaly the last 10th message with the author 
             try
             {
